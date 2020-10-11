@@ -2,6 +2,7 @@
 
 代Kumiao Robot于GitHub开源|官网为http://www.kumbot.cn/
 
+## 来自官方(教程)
 
 日期：2020年10月7日
 
